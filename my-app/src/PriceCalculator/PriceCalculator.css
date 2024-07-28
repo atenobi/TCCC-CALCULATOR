@@ -1,11 +1,15 @@
 .calculator {
-    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 45%;
     margin: 0 auto;
     padding: 20px;
     border: 1px solid #ddd;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     font-family: Arial, sans-serif;
+    position: relative;
   }
   
   .input-group {
@@ -42,7 +46,7 @@
     text-align: center;
     position: fixed;
     top: 40px;
-    right: 40px;
+    right: 25px;
     padding: 10px;
     border-radius: 50px;
     border: 10px solid #00ff8c54;
@@ -70,4 +74,23 @@
     color: white;
     cursor: pointer;
     box-shadow: 0 0 15px #f54d4d;
+  }
+
+  @media only screen and (min-width: 300px) and (max-width: 1024px) {
+    /* Ваши стили для планшетов */
+    .logo {
+        margin-top: 1em;
+        position: static;
+      }
+      
+      .logo-image {
+        width: 10em;
+        height: auto;
+      }
+
+      .total-price {
+        display: flex;
+        flex-direction: column;
+        position: static;
+      }
   }
