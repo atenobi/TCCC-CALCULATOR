@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.a6b70493.css",
-    "main.js": "/static/js/main.59335135.js",
-    "static/js/453.7dfbf7e5.chunk.js": "/static/js/453.7dfbf7e5.chunk.js",
-    "static/media/ТССС_image.png": "/static/media/ТССС_image.eb66a79a29fc12bdbfd5.png",
-    "index.html": "/index.html",
-    "main.a6b70493.css.map": "/static/css/main.a6b70493.css.map",
-    "main.59335135.js.map": "/static/js/main.59335135.js.map",
-    "453.7dfbf7e5.chunk.js.map": "/static/js/453.7dfbf7e5.chunk.js.map"
+    "main.css": "/atenobi/TCCC-CALCULATOR/static/css/main.a6b70493.css",
+    "main.js": "/atenobi/TCCC-CALCULATOR/static/js/main.362029d7.js",
+    "static/js/453.7dfbf7e5.chunk.js": "/atenobi/TCCC-CALCULATOR/static/js/453.7dfbf7e5.chunk.js",
+    "static/media/ТССС_image.png": "/atenobi/TCCC-CALCULATOR/static/media/ТССС_image.eb66a79a29fc12bdbfd5.png",
+    "index.html": "/atenobi/TCCC-CALCULATOR/index.html",
+    "main.a6b70493.css.map": "/atenobi/TCCC-CALCULATOR/static/css/main.a6b70493.css.map",
+    "main.362029d7.js.map": "/atenobi/TCCC-CALCULATOR/static/js/main.362029d7.js.map",
+    "453.7dfbf7e5.chunk.js.map": "/atenobi/TCCC-CALCULATOR/static/js/453.7dfbf7e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6b70493.css",
-    "static/js/main.59335135.js"
+    "static/js/main.362029d7.js"
   ]
 }
