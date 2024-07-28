@@ -47,12 +47,13 @@ function PriceCalculator({ items }) {
           </div>
         </div>
       ))}
-       <div className="logo">
-          <img className='logo-image' src={logo_tccc} alt="tccc_logo" />
-      </div>
+       
       <div className="total-price">
         <h2>Całkowity koszt: {calculateTotalPrice()} zl</h2>
         <button className='clear-button' onClick={resetQuantities}>wyczyść wszystko</button>
+      </div>
+      <div className="logo">
+          <img className='logo-image' src={logo_tccc} alt="tccc_logo" />
       </div>
     </div>
   );
