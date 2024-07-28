@@ -22,7 +22,7 @@
   }
   
   .input-group input {
-    width: 100%;
+    width: 15em;
     padding: 8px;
     border: 1px solid #ccc;
     border-radius: 3px;
@@ -77,7 +77,10 @@
   }
 
   @media only screen and (min-width: 300px) and (max-width: 1024px) {
-    /* Ваши стили для планшетов */
+    .calculator {
+        width: 80%;
+      }
+
     .logo {
         margin-top: 1em;
         position: static;
