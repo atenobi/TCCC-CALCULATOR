@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TCCC-CALCULATOR/static/css/main.a6b70493.css",
-    "main.js": "/TCCC-CALCULATOR/static/js/main.faa2a5f2.js",
+    "main.css": "/TCCC-CALCULATOR/static/css/main.e0ea0986.css",
+    "main.js": "/TCCC-CALCULATOR/static/js/main.0534116b.js",
     "static/js/453.7dfbf7e5.chunk.js": "/TCCC-CALCULATOR/static/js/453.7dfbf7e5.chunk.js",
     "static/media/ТССС_image.png": "/TCCC-CALCULATOR/static/media/ТССС_image.eb66a79a29fc12bdbfd5.png",
     "index.html": "/TCCC-CALCULATOR/index.html",
-    "main.a6b70493.css.map": "/TCCC-CALCULATOR/static/css/main.a6b70493.css.map",
-    "main.faa2a5f2.js.map": "/TCCC-CALCULATOR/static/js/main.faa2a5f2.js.map",
+    "main.e0ea0986.css.map": "/TCCC-CALCULATOR/static/css/main.e0ea0986.css.map",
+    "main.0534116b.js.map": "/TCCC-CALCULATOR/static/js/main.0534116b.js.map",
     "453.7dfbf7e5.chunk.js.map": "/TCCC-CALCULATOR/static/js/453.7dfbf7e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6b70493.css",
-    "static/js/main.faa2a5f2.js"
+    "static/css/main.e0ea0986.css",
+    "static/js/main.0534116b.js"
   ]
 }
